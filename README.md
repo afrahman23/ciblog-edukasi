@@ -8,9 +8,11 @@
 2. Bagaimana cara memisahkan hak akses guru (boleh posting materi & komentar) & siswa (hanya boleh komentar)
 
 
-## Features
+## Solusi -> Features
 1. Multilevel users registration and Login.
-2. Panel guru (posting materi & komentar) & Panel siswa (baca materi & komentar)
+2. CRUD
+ - Panel guru (posting materi & komentar) 
+ - & Panel siswa (hanya baca materi & komentar)
 
 ## Perlengkapan
 - Learning crud using mvc codeigniter 3 [ci blog](https://github.com/bradtraversy/ciblog) 
