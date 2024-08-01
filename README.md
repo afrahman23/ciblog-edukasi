@@ -11,8 +11,8 @@
 ## Solusi -> Features
 1. Multilevel users registration and Login.
 2. CRUD
- - Panel guru (posting materi & komentar) 
- - & Panel siswa (hanya baca materi & komentar)
+ - Panel guru (posting materi & berdiskusi) 
+ - & Panel siswa (tdk diijinkan posting materi, hanya baca materi & berdiskusi)
 
 ## Perlengkapan
 - Learning crud using mvc codeigniter 3 [ci blog](https://github.com/bradtraversy/ciblog) 
