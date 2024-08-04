@@ -5,8 +5,8 @@ Untuk tugas Kelompok 2 dipilih coding terbaik by [Eska Pratama DK](https://githu
 
 🎯 _It's not made to look good, but tries to focus on solving problems step by step_
 
-- 👨‍💻 Assaf Rahman (Onlinekan Web kelompok rbs.web.id)
-- 
+_👨‍💻 Assaf Rahman_
+  
 ## Tantangan 📚
 1. Bagaimana cara membedakan level akses guru & siswa saat pertama mendaftar 🛡🔐 ✅
 2. Bagaimana cara memisahkan hak akses guru (boleh posting materi & komentar) & siswa (hanya boleh komentar) 📝 ✅
