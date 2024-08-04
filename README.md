@@ -1,7 +1,7 @@
 # Tugas UAS - Logika MVC Codeigniter 3 ⚡️ 
 
-Ini adalah proyek tugas UAS mata kuliah Pemrograman Web 2. (Hanya Prepare pribadi testing koding by [Assaf Rahman](https://github.com/afrahman23/ciblog-edukasi) ) -> [edu.rbs.web.id](/https://edu.rbs.web.id/)
-Untuk tugas Kelompok 2 dipilih coding terbaik by [Eska Pratama DK](https://github.com/afrahman23/uaspemweb2) -> [rbs.web.id](https://rbs.web.id/)
+- Ini adalah proyek tugas UAS mata kuliah Pemrograman Web 2. (Hanya Prepare pribadi testing koding by [Assaf Rahman](https://github.com/afrahman23/ciblog-edukasi) ) -> [edu.rbs.web.id](/https://edu.rbs.web.id/)
+- Untuk tugas Kelompok 2 dipilih coding terbaik by [Eska Pratama DK](https://github.com/afrahman23/uaspemweb2) -> [rbs.web.id](https://rbs.web.id/)
 
 🎯 _It's not made to look good, but tries to focus on solving problems step by step_
 
